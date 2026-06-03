@@ -4,7 +4,10 @@
     "country": "Nigeria",
     "region": "Lagos",
     "provider_type": "Clinic",
-    "services_offered": "Lower limb prosthetics, rehabilitation therapy",
+    "services_offered": [
+      "Lower Limb Prosthetics",
+      "Rehabilitation Therapy"
+    ],
     "contact_person": "Dr. Adewale Johnson",
     "phone_number": "+2348012345678",
     "email": "info@lagosprosthetics.ng",
@@ -17,7 +20,10 @@
     "country": "Kenya",
     "region": "Nairobi",
     "provider_type": "Clinic",
-    "services_offered": "Prosthetic fitting, mobility training",
+    "services_offered": [
+      "Prosthetic Fitting",
+      "Mobility Training"
+    ],
     "contact_person": "Dr. Miriam Wekesa",
     "phone_number": "+254712345678",
     "email": "contact@nairobimobility.co.ke",
@@ -30,7 +36,11 @@
     "country": "South Africa",
     "region": "Cape Town",
     "provider_type": "Clinic",
-    "services_offered": "Advanced prosthetics, orthopedic support",
+    "services_offered": [
+      "Lower Limb Prosthetics",
+      "Upper Limb Prosthetics",
+      "Orthopedic Support"
+    ],
     "contact_person": "Dr. Johan van der Merwe",
     "phone_number": "+27821234567",
     "email": "info@capeorthotech.co.za",
@@ -43,7 +53,11 @@
     "country": "Ghana",
     "region": "Accra",
     "provider_type": "Clinic",
-    "services_offered": "Prosthetic limbs, physiotherapy",
+    "services_offered": [
+      "Lower Limb Prosthetics",
+      "Upper Limb Prosthetics",
+      "Physiotherapy"
+    ],
     "contact_person": "Dr. Kojo Mensah",
     "phone_number": "+233201234567",
     "email": "info@accralimcare.gh",
@@ -56,7 +70,10 @@
     "country": "Egypt",
     "region": "Cairo",
     "provider_type": "Clinic",
-    "services_offered": "Upper and lower limb prosthetics",
+    "services_offered": [
+      "Lower Limb Prosthetics",
+      "Upper Limb Prosthetics"
+    ],
     "contact_person": "Dr. Ahmed Hassan",
     "phone_number": "+201012345678",
     "email": "support@cairomobility.eg",
@@ -69,7 +86,10 @@
     "country": "Ethiopia",
     "region": "Addis Ababa",
     "provider_type": "Clinic",
-    "services_offered": "Prosthetic manufacturing, rehab support",
+    "services_offered": [
+      "Prosthetic Manufacturing",
+      "Rehabilitation Therapy"
+    ],
     "contact_person": "Dr. Selam Tesfaye",
     "phone_number": "+251911234567",
     "email": "info@addisprosthetics.et",
@@ -82,7 +102,10 @@
     "country": "Nigeria",
     "region": "Abuja",
     "provider_type": "Clinic",
-    "services_offered": "Custom prosthetics, rehabilitation",
+    "services_offered": [
+      "Custom Prosthetics",
+      "Rehabilitation Therapy"
+    ],
     "contact_person": "Dr. Emeka Okafor",
     "phone_number": "+2348098765432",
     "email": "info@abujaortho.ng",
@@ -95,7 +118,10 @@
     "country": "Senegal",
     "region": "Dakar",
     "provider_type": "NGO",
-    "services_offered": "Affordable prosthetics access programs",
+    "services_offered": [
+      "Affordable Prosthetics Programs",
+      "Disability Inclusion Programs"
+    ],
     "contact_person": "Fatou Ndiaye",
     "phone_number": "+221771234567",
     "email": "contact@dakarmobility.sn",
@@ -108,7 +134,10 @@
     "country": "Rwanda",
     "region": "Kigali",
     "provider_type": "Clinic",
-    "services_offered": "Rehabilitation and prosthetic fitting",
+    "services_offered": [
+      "Prosthetic Fitting",
+      "Rehabilitation Therapy"
+    ],
     "contact_person": "Dr. Jean Claude Niyonsaba",
     "phone_number": "+250788123456",
     "email": "info@kigali-prosthetics.rw",
@@ -121,7 +150,10 @@
     "country": "South Africa",
     "region": "Johannesburg",
     "provider_type": "Manufacturer",
-    "services_offered": "Prosthetic components and systems",
+    "services_offered": [
+      "Prosthetic Components Supply",
+      "Prosthetic Manufacturing"
+    ],
     "contact_person": "Sarah Williams",
     "phone_number": "+27112345678",
     "email": "info@navu.co.za",
