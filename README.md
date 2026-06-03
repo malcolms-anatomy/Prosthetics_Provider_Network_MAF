@@ -140,13 +140,14 @@ The directory supports:
 ### Tech Team
 
 - Maintains GitHub repository
+- Updates provider records in GitHub
 - Ensures data structure consistency
 - Updates frontend integration if needed
 
 ### Prosthetic Provider Network Team
 
 - Sources and verifies providers
-- Updates provider records in GitHub
+- Updates provider records in the Excel file
 - Ensures accuracy of service classification
 
 ---
