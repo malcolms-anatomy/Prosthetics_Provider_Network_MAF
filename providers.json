@@ -161,4 +161,20 @@
     "physical_address": "Sandton, Johannesburg",
     "social_media": "@navuprosthetics"
   }
+  {
+    "provider_name": "ABCD Provider",
+    "country": "Kenya",
+    "region": "Nairobi",
+    "provider_type": "Hospital",
+    "services_offered": [
+      "Lower Limb Prosthetics",
+      "Prosthetic Manufacturing"
+    ],
+    "contact_person": "Sarah Williams",
+    "phone_number": "+27112345678",
+    "email": "info@navu.co.za",
+    "website": "https://navu.co.za",
+    "physical_address": "Sandton, Johannesburg",
+    "social_media": "@navuprosthetics"
+  }
 ]
