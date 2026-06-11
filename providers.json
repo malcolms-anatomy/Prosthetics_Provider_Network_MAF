@@ -160,22 +160,21 @@
     "website": "https://navu.co.za",
     "physical_address": "Sandton, Johannesburg",
     "social_media": "@navuprosthetics"
-  }
+  },
   {
-"provider_name": "Mombasa Prosthetic Care Centre",
-"country": "Kenya",
-"region": "Mombasa",
-"provider_type": "Clinic",
-"services_offered": [
-"Lower Limb Prosthetics",
-"Prosthetic Fitting"
-],
-"contact_person": "Dr. Amina Hassan",
-"phone_number": "+254722345678",
-"email": "[info@mombasaprosthetics.co.ke](mailto:info@mombasaprosthetics.co.ke)",
-"website": "https://mombasaprosthetics.co.ke",
-"physical_address": "Moi Avenue, Mombasa",
-"social_media": "@mombasaprosthetics"
-}
-
+    "provider_name": "Mombasa Prosthetic Care Centre",
+    "country": "Kenya",
+    "region": "Mombasa",
+    "provider_type": "Clinic",
+    "services_offered": [
+      "Lower Limb Prosthetics",
+      "Prosthetic Fitting"
+    ],
+    "contact_person": "Dr. Amina Hassan",
+    "phone_number": "+254722345678",
+    "email": "info@mombasaprosthetics.co.ke",
+    "website": "https://mombasaprosthetics.co.ke",
+    "physical_address": "Moi Avenue, Mombasa",
+    "social_media": "@mombasaprosthetics"
+  }
 ]
